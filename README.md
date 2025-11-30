@@ -1,11 +1,5 @@
-That is an excellent choice for a first encryption project. RC4 is simple enough to implement quickly, yet complex enough to teach core cryptographic concepts like key scheduling and stream generation.
-
-Your original description is a good technical summary, but a GitHub README.md needs to attract interest and explain how your specific implementation works.
-
-Here is a revised, professional README.md template for your RC4 project, highlighting the key technical concepts and demonstrating the typical project structure.
-
 🔑 RC4 Stream Cipher Implementation
-A learning-focused project written in [Your Language, e.g., Python, C, Java] that provides a complete implementation of the RC4 (Rivest Cipher 4) stream cipher, demonstrating the core principles of symmetric encryption.
+A learning-focused project written in C that provides a complete implementation of the RC4 (Rivest Cipher 4) stream cipher, demonstrating the core principles of symmetric encryption.
 
 ✨ Project Goal & Learning Outcomes
 The primary goal of this project was to serve as a practical entry point into cryptography by building a working, self-contained implementation of a known stream cipher.
