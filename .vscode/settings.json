@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cstdlib": "cpp",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "compare": "c",
+        "cstdint": "c",
+        "algorithm": "c",
+        "format": "c"
+    }
+}
